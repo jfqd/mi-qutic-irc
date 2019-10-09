@@ -1,0 +1,8 @@
+name="qutic-irc"
+organization="qutic development"
+brand="irc Instance"
+version="20181018.0"
+description="qutic irc-bouncer image"
+homepage="https://github.com/jfqd/mi-qutic-irc"
+users="root admin"
+base="15eddb38-d9ec-11e9-99c5-4ba3253bb0c7"
